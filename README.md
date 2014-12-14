@@ -1,7 +1,7 @@
 Systembolaget API Wrapper
 
 ###Credits
-This module uses the api provided by https://www.mashape.com/karlroos/systemet.
+This module uses the api provided by http://www.systemetapi.se/
 
 ###Installation
 ```
