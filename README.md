@@ -11,6 +11,10 @@ npm install systembolaget
 var sb = require('systembolaget').client(mashape_key);
 ```
 
+You will need a Mashape Application Key in order to use this module.
+
+You can get one here: mashape.com
+
 ###Usage
 
 ####Get Countries

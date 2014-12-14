@@ -15,11 +15,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/olssonsimon/node-systembolaget-api"
+    "url": "https://github.com/olssonsimon/systembolaget"
   },
-  "homepage": "https://github.com/olssonsimon/node-systembolaget-api",
+  "homepage": "https://github.com/olssonsimon/systembolaget",
   "bugs": {
-    "url": "https://github.com/olssonsimon/node-systembolaget-api/issues"
+    "url": "https://github.com/olssonsimon/systembolaget/issues"
   },
   "testDependencies": {
     "chai": "^1.10.0",
