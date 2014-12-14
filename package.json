@@ -1,0 +1,15 @@
+{
+  "name": "systembolaget",
+  "version": "0.0.1",
+  "description": "Systembolaget API wrapper",
+  "main": "./lib/sb.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Simon Olsson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olssonsimon/node-systembolaget-api"
+  }
+}
